@@ -31,10 +31,10 @@ I love Apple, robotics and space. During the day I am an ordinary iOS developer,
 
 <p align="left">
   <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/swift-colored.svg" width="36" height="36" alt="Swift" /></a>
-  <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><img src="https://github.com/ReactiveX/RxSwift/blob/main/assets/RxSwift_Logo.png?raw=true" width="36" height="36" alt="Swift" /></a>
-  <a href="https://www.xcode.com" target="_blank" rel="noreferrer"><img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/79868fa1-41b8-411f-bd00-cda9ba6723ca" width="36" height="36" alt="XCode" /></a>
+  <a href="https://github.com/ReactiveX/RxSwift.git" target="_blank" rel="noreferrer"><img src="https://github.com/ReactiveX/RxSwift/blob/main/assets/RxSwift_Logo.png?raw=true" width="36" height="36" alt="Swift" /></a>
+  <a href="https://github.com/realm/realm-swift.git" target="_blank" rel="noreferrer"><img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/79868fa1-41b8-411f-bd00-cda9ba6723ca" width="36" height="36" alt="XCode" /></a>
   <a href="https://www.xcode.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xcode.svg" width="36" height="36" alt="XCode" /></a>
-  <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/CocoaPods/Design/master/assets/logo.png" width="36" height="36" alt="Swift" /></a> 
+  <a href="https://www.cocoapods.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/CocoaPods/Design/master/assets/logo.png" width="36" height="36" alt="Swift" /></a> 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
