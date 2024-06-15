@@ -18,15 +18,12 @@
 </div>
 
 I am iOS developer with 3 years of experience.
-Here are some ideas to get you started:
+My goal is to create high-quality and user-friendly applications that meet modern standards.
+I love Apple, robotics and space. During the day I am an ordinary iOS developer, and at night I am an engineer who wants to fly to Mars.
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on PetHealth
+- 💼 I worked at CRT, ex: Creative
 - 🎓 Graduate of programming 42 school
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
 - 🛰️ Design engineer (for almost NASA)
 - 🤖 Designing my rover for Mars
 
